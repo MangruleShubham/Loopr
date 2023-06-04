@@ -1,0 +1,24 @@
+{
+    "product1": {
+      "productId": "product1",
+      "image": "img1(base64_encoded_image_string)",
+      "name": "Product 1",
+      "price": 10.99,
+      "quantity": 100
+    },
+    "product2": {
+      "productId": "product2",
+      "image": "im2",
+      "name": "Product 2",
+      "price": 19.99,
+      "quantity": 50
+    },
+    "product3": {
+      "productId": "product3",
+      "image": "img3",
+      "name": "Product 3",
+      "price": 5.99,
+      "quantity": 200
+    }
+  }
+  
